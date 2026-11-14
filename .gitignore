@@ -1,0 +1,4 @@
+verification.pdf
+*.tar.gz
+*.zip
+publish-source.mjs
